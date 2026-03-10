@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://tanujaignatius.github.io/tanujaignatius-docs/</loc>
-      </url>
-      <url>
         <loc>https://tanujaignatius.github.io/tanujaignatius-docs/new-project/</loc>
       </url>
       <url>
         <loc>https://tanujaignatius.github.io/tanujaignatius-docs/new-project/new/</loc>
-      </url>
-      <url>
-        <loc>https://tanujaignatius.github.io/tanujaignatius-docs/new-project/release-notes/</loc>
-      </url>
-      <url>
-        <loc>https://tanujaignatius.github.io/tanujaignatius-docs/new-project/release-notes/5-version-4.7.0/</loc>
       </url>
 </urlset>
